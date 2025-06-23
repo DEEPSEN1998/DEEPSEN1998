@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/abe04c0b2ccc0ef7d6677540854002171c38295caa13c50d2832274832442a99/68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepsen1998&label=Profile%20views&color=0e75b6&style=flat" alt="deepsen1998" /> </p>
 
-- 🌱 I’m currently learning **spring-boot,react js,docker**
+- 🌱 I’m currently learning **Machine learning,Deep learning**
 
 - 👨‍💻 All of my projects are available at [https://deepsen.in/](https://deepsen.in/)
 
-- 💬 Ask me about **java,c++,react,spring-boot**
+- 💬 Ask me about **java,c++,react,spring-boot,python,**
 
 - 📫 How to reach me **dsen6072@gmail.com**
 
