@@ -1,6 +1,6 @@
-![Masthead Image](https://camo.githubusercontent.com/888ad51e3f36b9fa2ffdbade39ac75b9f46bf211b6bd8417d8d970af8d2b634e/68747470733a2f2f6165636f6d746563682e636f6d2f696d6167652f73657276696365732f6a6176612d62616e6e65722e706e67)
+![Masthead Image]([https://camo.githubusercontent.com/888ad51e3f36b9fa2ffdbade39ac75b9f46bf211b6bd8417d8d970af8d2b634e/68747470733a2f2f6165636f6d746563682e636f6d2f696d6167652f73657276696365732f6a6176612d62616e6e65722e706e67](https://physics.aps.org/assets/d7587f34-162c-4a91-aae2-9d2c4deb8fed/e146_1.png))
 <h1 align="center">Hi 👋, I'm Deep Sen</h1>
-<h3 align="center">A passionate frontend developer and java developer from India</h3>
+<h3 align="center">A passionate AI ML developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/abe04c0b2ccc0ef7d6677540854002171c38295caa13c50d2832274832442a99/68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepsen1998&label=Profile%20views&color=0e75b6&style=flat" alt="deepsen1998" /> </p>
 
