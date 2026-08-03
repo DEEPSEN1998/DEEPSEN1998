@@ -199,7 +199,7 @@ I am a **Software Developer from India** with **2+ years of professional web dev
   &lt;a href="mailto:dsen6072@gmail.com"&gt;
     &lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /&gt;
   &lt;/a&gt;
-  &lt;a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"&gt;
+  &lt;a href="https://www.linkedin.com/in/deep-sen17" target="_blank"&gt;
     &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /&gt;
   &lt;/a&gt;
   &lt;a href="https://github.com/DEEPSEN1998" target="_blank"&gt;
