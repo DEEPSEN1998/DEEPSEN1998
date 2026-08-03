@@ -398,13 +398,6 @@ https://github.com/DEEPSEN1998/Home-Loan-Predictor-Ml-Project
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/DEEPSEN1998/DEEPSEN1998/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
 
 ---
 
