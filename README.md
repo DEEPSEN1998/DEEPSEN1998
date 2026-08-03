@@ -201,3 +201,238 @@
 ### 🐙 https://github.com/DEEPSEN1998
 
 ---
+
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🤖 AI FAQ Chatbot
+
+AI-powered FAQ chatbot built using **FastAPI + Ollama + Docker**
+
+### ✨ Features
+
+- 💬 LLM Powered
+- ⚡ Streaming Responses
+- 🧠 Session Memory
+- 📄 Markdown Rendering
+- 👤 Lead Generation
+- 🌙 Dark / Light Mode
+- 📦 Docker Ready
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-green?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-black?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-orange?style=flat-square)
+
+🔗 **Repository:**  
+https://github.com/DEEPSEN1998/AI-FAQ-Chatbot
+
+</td>
+
+<td width="50%">
+
+### 🚦 Traffic Sign Recognition
+
+Deep Learning project using **PyTorch**
+
+### ✨ Features
+
+- CNN Architecture
+- 43 Classes
+- OpenCV
+- FastAPI
+- Docker
+- Real-time Prediction
+
+**Accuracy**
+
+> 🎯 **93%**
+
+**Tech Stack**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-blue?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-green?style=flat-square)
+
+🔗 **Repository**
+
+https://github.com/DEEPSEN1998/Traffic_sign_classifier
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🏦 Home Loan Prediction
+
+Machine Learning Project
+
+### Features
+
+- XGBoost
+- Feature Engineering
+- Flask
+- EDA
+- Prediction API
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-black?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-red?style=flat-square)
+
+🔗 Repository
+
+https://github.com/DEEPSEN1998/Home-Loan-Predictor-Ml-Project
+
+</td>
+
+<td>
+
+## 🚀 Coming Soon
+
+- AI Voice Assistant
+
+- AI Resume Analyzer
+
+- RAG Chatbot
+
+- LangGraph Agent
+
+- Multi-Agent AI
+
+- MLOps Projects
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DEEPSEN1998&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPSEN1998&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DEEPSEN1998&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEEPSEN1998&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DEEPSEN1998&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
+
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://deepsen.in" target="_blank">
+<img src="https://img.shields.io/badge/🌍 Portfolio-FF5722?style=for-the-badge"/>
+</a>
+
+<a href="mailto:dsen6072@gmail.com">
+<img src="https://img.shields.io/badge/📧 Gmail-EA4335?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/deep-sen17/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/DEEPSEN1998" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💼 Open To
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI%20Engineer-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FastAPI-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Backend%20Developer-purple?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📈 Visitor Counter
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=DEEPSEN1998&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/DEEPSEN1998/DEEPSEN1998/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+> **"Code. Learn. Build. Repeat."**
+
+> **"The best way to predict the future is to build it."**
+
+</div>
+
+---
+
+# ❤️ Thanks for visiting my profile!
+
+<p align="center">
+
+If you like my work, consider ⭐ starring my repositories.
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0D1117,100:00D9FF&section=footer"/>
+
+</p>
+
